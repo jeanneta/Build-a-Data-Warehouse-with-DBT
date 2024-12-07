@@ -364,7 +364,7 @@ SELECT
 FROM {{ ref('raw_payment') }}
 ```
 
-Expanation:
+Explanation:
 
 ### `FROM {{ ref('raw_payment') }}`
 
